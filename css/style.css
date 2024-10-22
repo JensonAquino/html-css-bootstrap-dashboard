@@ -1,7 +1,3 @@
 img{
     width: 50px;
 }
-[class^=container]{
-    border: 1px solid black;
-    min-height: 50px;
-}
